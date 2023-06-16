@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cl_action">#242db3</color>
+    <color name="cl_action2nd">#191e6b</color>
+    <color name="cl_list">#8fbaff</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkgrey">#5A5A5A</color>
+</resources>

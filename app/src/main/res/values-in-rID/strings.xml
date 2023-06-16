@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Kata sandi</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="username">Nama</string>
+    <string name="desc_hint">Tambahkan Deskripsi</string>
+    <string name="galery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload">Unggah</string>
+    <string name="unauthorized">Email atau password salah</string>
+    <string name="timeout">Jaringan Error, Coba lagi</string>
+    <string name="error">Error :</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="invalid_email">Email Salah</string>
+    <string name="input_pass">Masukkan Kata Sandi</string>
+    <string name="pass_length">Kata Sandi Salah</string>
+    <string name="add_story_label">Tambah Cerita</string>
+    <string name="reg_label">Daftar</string>
+    <string name="login_label">Masuk</string>
+    <string name="detail_label">Detail Cerita</string>
+    <string name="logout">Keluar</string>
+    <string name="language">Pengaturan Bahasa</string>
+    <string name="input_name">Masukkan nama anda</string>
+    <string name="user_create">Akun berhasil dibuat</string>
+    <string name="email_taken">Email telah terdaftar</string>
+    <string name="message">Pesan :</string>
+    <string name="pick_picture">Pilih gambar</string>
+    <string name="input_picture">Masukkan gambar!!</string>
+    <string name="input_des">Masukkan deskripsi!!</string>
+</resources>

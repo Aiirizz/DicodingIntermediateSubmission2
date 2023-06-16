@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="desc_hint">Add Description</string>
+    <string name="galery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="unauthorized">Invalid Email or Password</string>
+    <string name="timeout">Timeout!, Try again later</string>
+    <string name="error">Error :</string>
+    <string name="input_email">Input Your Email</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="input_pass">Input Password</string>
+    <string name="pass_length">Invalid Password</string>
+
+
+    <string name="add_story_label">Add Story</string>
+    <string name="reg_label">Register</string>
+    <string name="login_label">Login</string>
+    <string name="detail_label">Detail Story</string>
+    <string name="logout">Logout</string>
+    <string name="language">Language Option</string>
+
+    <string name="input_name">Input Your Name</string>
+    <string name="user_create">Account Created</string>
+    <string name="email_taken">Email is Already Taken</string>
+    <string name="message">Massege : </string>
+    <string name="pick_picture">Select an Image</string>
+    <string name="input_picture">Please insert the picture</string>
+    <string name="input_des">Please insert the description</string>
+    <string name="retry">Retry</string>
+    <string name="img">img</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
